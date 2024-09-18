@@ -10,6 +10,6 @@
 <?php include "inc/navbar.html"; ?>
 
 <body>
-    Hello World
+    <h1>Work in Progress</h1>
 </body>
 </html>

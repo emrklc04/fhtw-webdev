@@ -25,7 +25,7 @@
     <pre style="text-align: center;">
         Angaben gemäß § 5 TMG:
 
-        Ibrahim Elsherif
+        Ibrahim Elsherif & Emre Kilic
         FH Technikum Wien
         1200
         Wien
@@ -35,14 +35,14 @@
         E-Mail: student@technikum-wien.at
 
         Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-        Ibrahim Elsherif
+        Ibrahim Elsherif & Emre Kilic
         FH Technikum Wien , 1200 Wien
 
         <h2><b>Das Team:</b></h2>
 
         <div class="image-container">
-          <img src="res/img/placeholder.jpg" alt="Snow1">
-          <img src="res/img/placeholder.jpg" alt="Snow2">
+          <img src="res/img/placeholder.jpg" alt="Foto von Ibrahim">
+          <img src="res/img/placeholder.jpg" alt="Foto von Emre">
         </div>
     </pre>
 
