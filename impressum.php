@@ -3,7 +3,7 @@
     <meta charset='utf-8'>
 </head>
 
-<?php include "../navbar.html"; ?>
+<?php include "inc/navbar.html"; ?>
 
 <style>
           .image-container {
@@ -41,8 +41,8 @@
         <h2><b>Das Team:</b></h2>
 
         <div class="image-container">
-          <img src="../res/img/placeholder.jpg" alt="Snow1">
-          <img src="../res/img/placeholder.jpg" alt="Snow2">
+          <img src="res/img/placeholder.jpg" alt="Snow1">
+          <img src="res/img/placeholder.jpg" alt="Snow2">
         </div>
     </pre>
 

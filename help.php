@@ -4,13 +4,9 @@
     <meta charset='utf-8'>
 </head>
 
-<?php include "navbar.html"; ?>
+<?php include "inc/navbar.html"; ?>
 
 <body>
-    <h1>Anleitung</h1>
- 
-
-    </h2>
     <h1>FAQ</h1>
     <ul>
             <h3>
